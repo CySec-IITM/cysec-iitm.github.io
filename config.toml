@@ -1,4 +1,4 @@
-base_url = "https://cyseciitm.github.io"
+base_url = "https://cysec-iitm.github.io"
 title = "CyberSecurity Club IITM"
 default_language = "en"
 compile_sass = false
