@@ -183,4 +183,22 @@
 </content>
         
     </entry>
+    <entry xml:lang="en">
+        <title>Cybersecurity Club Launch Session</title>
+        <published>2023-02-04T00:00:00+00:00</published>
+        <updated>2023-02-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cysec-iitm.github.io/events/cysec-launch-session/" type="text/html"/>
+        <id>https://cysec-iitm.github.io/events/cysec-launch-session/</id>
+        
+        <content type="html">&lt;div class=&quot;textCenter&quot;&gt;
+  &lt;img src=&quot;&amp;#x2F;events&amp;#x2F;launch.jpg&quot; alt=&quot;Poster&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;Cybersecurity club had its launch event where &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cse.iitm.ac.in&#x2F;~chester&#x2F;&quot;&gt;Prof. Chester Rebeiro&lt;&#x2F;a&gt; explained the growing importtance of cybersecurity in today’s world and the impact it has on society, along with its relevance as it stands in the current industry. This was later followed by the team members demonstrating password cracking methods and a stack-overflow exploit, along with the solutions to the 2023 Inter IIT cybersecurity contingent selection question. The repository for the codes used in the sessions can be found &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Johan511&#x2F;CySec-IITM-Sess1&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
 </feed>
