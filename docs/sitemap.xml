@@ -36,6 +36,14 @@
         <lastmod>2023-07-29</lastmod>
     </url>
     <url>
+        <loc>https://cysec-iitm.github.io/resources/python-basic/</loc>
+        <lastmod>2023-08-02</lastmod>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/resources/python-scripting/</loc>
+        <lastmod>2023-08-02</lastmod>
+    </url>
+    <url>
         <loc>https://cysec-iitm.github.io/tags/</loc>
     </url>
     <url>
@@ -76,6 +84,12 @@
     </url>
     <url>
         <loc>https://cysec-iitm.github.io/tags/privacy/</loc>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/tags/python-programming/</loc>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/tags/scripting/</loc>
     </url>
     <url>
         <loc>https://cysec-iitm.github.io/tags/server-side/</loc>
