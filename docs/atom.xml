@@ -7,7 +7,7 @@
     <updated>2023-08-02T00:00:00+00:00</updated>
     <id>https://cysec-iitm.github.io/atom.xml</id>
     <entry xml:lang="en">
-        <title>Basic Python Programming</title>
+        <title>1.1 Basic Python Programming</title>
         <published>2023-08-02T00:00:00+00:00</published>
         <updated>2023-08-02T00:00:00+00:00</updated>
         <author>
@@ -1235,11 +1235,15 @@ Returning from Functions&lt;&#x2F;p&gt;
 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fabd2f;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;(second &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;- &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;first)
 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fabd2f;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;(first &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fe8019;&quot;&gt;^ &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;second)
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;span class=&quot;webring&quot;&gt;
+ 
+&lt;a href=#&gt;Go to the Top&lt;&#x2F;a&gt; 
+&lt;&#x2F;span&gt;
 </content>
         
     </entry>
     <entry xml:lang="en">
-        <title>Python Scripting</title>
+        <title>1.0 Python Scripting</title>
         <published>2023-08-02T00:00:00+00:00</published>
         <updated>2023-08-02T00:00:00+00:00</updated>
         <author>
@@ -1279,11 +1283,15 @@ Returning from Functions&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ol&gt;
 &lt;p&gt;For a reduced set of python guide for beginners refer &lt;a href=&quot;&#x2F;resources&#x2F;python-basic&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;span class=&quot;webring&quot;&gt;
+ 
+&lt;a href=#&gt;Go to the Top&lt;&#x2F;a&gt; 
+&lt;&#x2F;span&gt;
 </content>
         
     </entry>
     <entry xml:lang="en">
-        <title>Binary Exploitation</title>
+        <title>2.0 Binary Exploitation</title>
         <published>2023-07-29T00:00:00+00:00</published>
         <updated>2023-07-29T00:00:00+00:00</updated>
         <author>

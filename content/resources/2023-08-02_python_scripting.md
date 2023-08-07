@@ -1,5 +1,5 @@
 +++
-title = "Python Scripting"
+title = "1.0 Python Scripting"
 [taxonomies]
 tags = ['scripting', 'Python Programming']
 +++
@@ -25,3 +25,6 @@ Python is often considered a good language for learning hacking and cybersecurit
 9. **Exploit Development**: Python can be used for writing and testing exploits due to its simplicity and the availability of libraries like `pwntools` that assist in exploit development.
 
 For a reduced set of python guide for beginners refer [here](/resources/python-basic/)
+
+
+{{ webring(webring="#", webringName="Go to the Top") }}
