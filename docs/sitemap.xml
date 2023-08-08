@@ -36,12 +36,28 @@
         <lastmod>2023-07-29</lastmod>
     </url>
     <url>
+        <loc>https://cysec-iitm.github.io/resources/dom-xss/</loc>
+        <lastmod>2023-08-08</lastmod>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/resources/file-inc-vuln/</loc>
+        <lastmod>2023-08-08</lastmod>
+    </url>
+    <url>
         <loc>https://cysec-iitm.github.io/resources/python-basic/</loc>
         <lastmod>2023-08-02</lastmod>
     </url>
     <url>
         <loc>https://cysec-iitm.github.io/resources/python-scripting/</loc>
         <lastmod>2023-08-02</lastmod>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/resources/sqli/</loc>
+        <lastmod>2023-08-08</lastmod>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/resources/web-exp/</loc>
+        <lastmod>2023-08-08</lastmod>
     </url>
     <url>
         <loc>https://cysec-iitm.github.io/tags/</loc>
@@ -71,6 +87,9 @@
         <loc>https://cysec-iitm.github.io/tags/file-forensics/</loc>
     </url>
     <url>
+        <loc>https://cysec-iitm.github.io/tags/file-inclusion-vulnerabilities/</loc>
+    </url>
+    <url>
         <loc>https://cysec-iitm.github.io/tags/hashing/</loc>
     </url>
     <url>
@@ -89,10 +108,16 @@
         <loc>https://cysec-iitm.github.io/tags/python-programming/</loc>
     </url>
     <url>
+        <loc>https://cysec-iitm.github.io/tags/rce/</loc>
+    </url>
+    <url>
         <loc>https://cysec-iitm.github.io/tags/scripting/</loc>
     </url>
     <url>
         <loc>https://cysec-iitm.github.io/tags/server-side/</loc>
+    </url>
+    <url>
+        <loc>https://cysec-iitm.github.io/tags/sql-injection-attacks/</loc>
     </url>
     <url>
         <loc>https://cysec-iitm.github.io/tags/stack-overflow/</loc>
